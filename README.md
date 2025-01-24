@@ -19,11 +19,11 @@ This project leverages machine learning techniques and Streamlit to build an int
 
 The dashboard transforms raw financial data through a systematic pipeline: data preprocessing → credit score calculation → customer segmentation → machine learning analysis → personalized insights. Each stage enriches the data, turning complex financial information into clear, actionable recommendations.
 
-![Feature Importance Analysis](Screenshot%202025-01-24%20at%207.28.13%20AM.png)
+![Workflow](Images/Flowchart.png)
 
 ## Dashboard Screenshot
 
-![Feature Importance Analysis](Screenshot%202025-01-24%20at%207.28.13%20AM.png)
+![Segment Analysis](Images/SegmentAnalysis.png)
 
 ---
 
